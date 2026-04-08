@@ -6,7 +6,7 @@ import datetime
 import os
 
 # INSERT NEW TOKEN FROM BOTFATHER
-bot = telebot.TeleBot("PUT_NEW_TOKEN_HERE")
+bot = telebot.TeleBot("7437598395:AAEJLc4z4gFLJlsYSQV8SlN5OT7QIcJ5EBg")
 
 # Admin user IDs
 admin_id = ["5213725124"]
