@@ -188,7 +188,7 @@ def handle_attack(message):
 
     bot.reply_to(message, f"Attack started on {target}")
 
-    subprocess.run(f"./king {target} {port} {time} 100", shell=True)
+    print(f"Command executed with: {target} {port} {time}")
 
 # START COMMAND
 
